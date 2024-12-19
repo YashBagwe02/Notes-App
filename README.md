@@ -1,6 +1,5 @@
 <h1>Notes App </h1>
-This project is a simple yet elegant web-based application designed to help users create, edit, and manage their notes with ease. With its visually appealing design and seamless user experience, the Notes App is perfect for showcasing front-end development skills.
-
+This project is a simple yet elegant web-based application designed to help users create, edit, and manage their notes with ease. The Notes App is a thoughtfully crafted design and has intuitive functionality, also provides a delightful and seamless experience.
 <h2>Features:</h2>
 
 * **Create Notes:** Add new notes with a single click.
