@@ -16,6 +16,7 @@ This project is a simple yet elegant web-based application designed to help user
 * **Customizable Interface:** Beautiful and soft pastel-themed design with a clean and modern UI.
 
 <h2>Technologies Used:</h2>
+
 * **HTML:** Structure of the application.
 
 * **CSS:** Styling for an appealing and user-friendly interface.
