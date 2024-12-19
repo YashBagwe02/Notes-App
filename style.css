@@ -92,5 +92,16 @@ body {
     opacity: 1;
 }
 
+@media((min-width: 300px) and (max-width: 1200px)){
+    .heading{
+        text-align: center;
+    }
+    .note-container{
+        width: 300px;
+    }
+    .note-area{
+        height: 185px;
+    }
+}
 
 
